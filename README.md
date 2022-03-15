@@ -16,7 +16,7 @@
 <p>These colours are; It is used with classes written for text, buttons, backgrounds and borders. E.g; To make a text red, you add the text-danger class to it. Or to make a button blue, you add the btn-primary class to it. Or to make a box's background green, you add the bg-success class to it.
 But web developers need more colours than that in their work and they have to write CSS for it. This not only makes things longer but also makes using Bootstrap pointless.
 Bootstrap Additional Colours project solves this problem. You can use other colours in the same way as Bootstrap's 8 colours.</p>
-<h2>Colours</h2>
+<h2>My new colours</h2>
 <p>This project includes these colours:</p>
 <ul>
   <li>Dark magenta</li>
