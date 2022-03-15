@@ -1,0 +1,663 @@
+/*Bootstrap includes only 8 colour classes by default.
+This CSS file allows you to use other colours in a similar way to Bootstrap classes.*/
+
+/*Dark colours*/
+
+/*Dark magenta*/
+.text-darkmagenta {
+    color: darkmagenta;
+}
+
+.bg-darkmagenta {
+    background-color: darkmagenta;
+}
+
+.btn-darkmagenta {
+    background-color: darkmagenta;
+    color: white;
+}
+
+.btn-darkmagenta:hover {
+    background-color: purple;
+    color: white;
+}
+
+.border-darkmagenta {
+    border-color: darkmagenta !important;
+}
+
+.btn-outline-darkmagenta {
+    border-color: darkmagenta;
+    color: darkmagenta;
+}
+
+.btn-outline-darkmagenta:hover {
+    background-color: darkmagenta;
+    border-color: darkmagenta;
+    color: white;
+}
+
+/*Indigo*/
+.text-indigo {
+    color: indigo;
+}
+
+.bg-indigo {
+    background-color: indigo;
+}
+
+.btn-indigo {
+    background-color: indigo;
+    color: white;
+}
+
+.btn-indigo:hover {
+    background-color: darkblue;
+    color: white;
+}
+
+.border-indigo {
+    border-color: indigo !important;
+}
+
+.btn-outline-indigo {
+    border-color: indigo;
+    color: indigo;
+}
+
+.btn-outline-indigo:hover {
+    background-color: indigo;
+    border-color: indigo;
+    color: white;
+}
+
+/*Midnight blue*/
+.text-midnightblue {
+    color: midnightblue;
+}
+
+.bg-midnightblue {
+    background-color: midnightblue;
+}
+
+.btn-midnightblue {
+    background-color: midnightblue;
+}
+
+.btn-midnightblue:hover {
+    background-color: darkblue;
+    color: white;
+}
+
+.border-midnightblue {
+    border-color: midnightblue !important;
+}
+
+.btn-outline-midnightblue {
+    border-color: midnightblue;
+    color: midnightblue;
+}
+
+.btn-outline-midnightblue:hover {
+    background-color: midnightblue;
+    border-color: midnightblue;
+    color: white;
+}
+
+/*Dark orange*/
+.text-darkorange {
+    color: darkorange;
+}
+
+.bg-darkorange {
+    background-color: darkorange;
+}
+
+.btn-darkorange {
+    background-color: darkorange;
+    color: white;
+}
+
+.btn-darkorange:hover {
+    background-color: orange;
+    color: white;
+}
+
+.border-darkorange {
+    border-color: darkorange !important;
+}
+
+.btn-outline-darkorange {
+    border-color: darkorange;
+    color: darkorange;
+}
+
+.btn-outline-darkorange:hover {
+    background-color: darkorange;
+    border-color: darkorange;
+    color: white;
+}
+
+/*Brown*/
+.text-brown {
+    color: brown;
+}
+
+.bg-brown {
+    background-color: brown;
+}
+
+.btn-brown {
+    background-color: brown;
+    color: white;
+}
+
+.btn-brown:hover {
+    background-color: chocolate;
+    color: white;
+}
+
+.border-brown {
+    border-color: brown !important;
+}
+
+.btn-outline-brown {
+    border-color: brown;
+    color: brown;
+}
+
+.btn-outline-brown:hover {
+    background-color: brown;
+    border-color: brown;
+    color: white;
+}
+
+/*Dark green*/
+.text-darkgreen {
+    color: darkgreen;
+}
+
+.bg-darkgreen {
+    background-color: darkgreen;
+}
+
+.btn-darkgreen {
+    background-color: darkgreen;
+    color: white;
+}
+
+.btn-darkgreen:hover {
+    background-color: green;
+    color: white;
+}
+
+.border-darkgreen {
+    border-color: darkgreen !important;
+}
+
+.btn-outline-darkgreen {
+    border-color: darkgreen;
+    color: darkgreen;
+}
+
+.btn-outline-darkgreen:hover {
+    background-color: darkgreen;
+    border-color: darkgreen;
+    color: white;
+}
+
+/*Deep sky blue*/
+.text-deepskyblue {
+    color: deepskyblue;
+}
+
+.bg-deepskyblue {
+    background-color: deepskyblue;
+}
+
+.btn-deepskyblue {
+    background-color: deepskyblue;
+    color: white;
+}
+
+.btn-deepskyblue:hover {
+    background-color: lightskyblue;
+    color: white;
+}
+
+.border-deepskyblue {
+    border-color: deepskyblue !important;
+}
+
+.btn-outline-deepskyblue {
+    border-color: deepskyblue;
+    color: deepskyblue;
+}
+
+.btn-outline-deepskyblue:hover {
+    background-color: deepskyblue;
+    border-color: deepskyblue;
+    color: white;
+}
+
+/*Deep pink*/
+.text-deeppink {
+    color: deeppink;
+}
+
+.bg-deeppink {
+    background-color: deeppink;
+}
+
+.btn-deeppink {
+    background-color: deeppink;
+    color: white;
+}
+
+.btn-deeppink:hover {
+    background-color: pink;
+    color: white;
+}
+
+.border-deeppink {
+    border-color: deeppink !important;
+}
+
+.btn-outline-deeppink {
+    border-color: deeppink;
+    color: deeppink;
+}
+
+.btn-outline-deeppink:hover {
+    background-color: deeppink;
+    border-color: deeppink;
+    color: white;
+}
+
+/*Fuchsia*/
+.text-fuchsia {
+    color: fuchsia;
+}
+
+.bg-fuchsia {
+    background-color: fuchsia;
+}
+
+.btn-fuchsia {
+    background-color: fuchsia;
+    color: white;
+}
+
+.btn-fuchsia:hover {
+    background-color: magenta;
+    color: white;
+}
+
+.border-fuchsia {
+    border-color: fuchsia !important;
+}
+
+.btn-outline-fuchsia {
+    border-color: fuchsia;
+    color: fuchsia;
+}
+
+.btn-outline-fuchsia:hover {
+    background-color: fuchsia;
+    border-color: fuchsia;
+    color: white;
+}
+
+/*Light colours*/
+
+/*Light pink*/
+.text-lightpink {
+    color: lightpink;
+}
+
+.bg-lightpink {
+    background-color: lightpink;
+}
+
+.btn-lightpink {
+    background-color: lightpink;
+}
+
+.btn-lightpink:hover {
+    background-color: pink;
+}
+
+.border-lightpink {
+    border-color: lightpink !important;
+}
+
+.btn-outline-lightpink {
+    border-color: lightpink;
+    color: lightpink;
+}
+
+.btn-outline-lightpink:hover {
+    background-color: lightpink;
+    border-color: lightpink;
+    color: black;
+}
+
+/*Light green*/
+.text-lightgreen {
+    color: lightgreen;
+}
+
+.bg-lightgreen {
+    background-color: lightgreen;
+}
+
+.btn-lightgreen {
+    background-color: lightgreen;
+}
+
+.btn-lightgreen:hover {
+    background-color: greenyellow;
+}
+
+.border-lightgreen {
+    border-color: lightgreen !important;
+}
+
+.btn-outline-lightgreen {
+    border-color: lightgreen;
+    color: lightgreen;
+}
+
+.btn-outline-lightgreen:hover {
+    background-color: lightgreen;
+    border-color: lightgreen;
+    color: black;
+}
+
+/*Chocolate*/
+.text-choco {
+    color: chocolate;
+}
+
+.bg-choco {
+    background-color: chocolate;
+}
+
+.btn-choco {
+    background-color: chocolate;
+}
+
+.btn-choco:hover {
+    background-color: brown;
+}
+
+.border-choco {
+    border-color: chocolate !important;
+}
+
+.btn-outline-choco {
+    border-color: chocolate;
+    color: chocolate;
+}
+
+.btn-outline-choco:hover {
+    background-color: chocolate;
+    border-color: chocolate;
+    color: black;
+}
+
+/*Corn flower blue*/
+.text-cornflowerblue {
+    color: cornflowerblue;
+}
+
+.bg-cornflowerblue {
+    background-color: cornflowerblue;
+}
+
+.btn-cornflowerblue {
+    background-color: cornflowerblue;
+}
+
+.btn-cornflowerblue:hover {
+    background-color: lightblue;
+}
+
+.border-cornflowerblue {
+    border-color: cornflowerblue !important;
+}
+
+.btn-outline-cornflowerblue {
+    border-color: cornflowerblue;
+    color: cornflowerblue;
+}
+
+.btn-outline-cornflowerblue:hover {
+    background-color: cornflowerblue;
+    border-color: cornflowerblue;
+    color: black;
+}
+
+/*Corn silk*/
+.text-cornsilk {
+    color: cornsilk;
+}
+
+.bg-cornsilk {
+    background-color: cornsilk;
+}
+
+.btn-cornsilk {
+    background-color: cornsilk;
+}
+
+.btn-cornsilk:hover {
+    background-color: lightyellow;
+}
+
+.border-cornsilk {
+    border-color: cornsilk !important;
+}
+
+.btn-outline-cornsilk {
+    border-color: cornsilk;
+    color: cornsilk;
+}
+
+.btn-outline-cornsilk:hover {
+    background-color: cornsilk;
+    border-color: cornsilk;
+    color: black;
+}
+
+/*Honeydew*/
+.text-honeydew {
+    color: honeydew;
+}
+
+.bg-honeydew {
+    background-color: honeydew;
+}
+
+.btn-honeydew {
+    background-color: honeydew;
+}
+
+.btn-honeydew:hover {
+    background-color: lightyellow;
+}
+
+.border-honeydew {
+    border-color: honeydew !important;
+}
+
+.btn-outline-honeydew {
+    border-color: honeydew;
+    color: honeydew;
+}
+
+.btn-outline-honeydew:hover {
+    background-color: honeydew;
+    border-color: honeydew;
+    color: black;
+}
+
+/*Indian red*/
+.text-indianred {
+    color: indianred;
+}
+
+.bg-indianred {
+    background-color: indianred;
+}
+
+.btn-indianred {
+    background-color: indianred;
+}
+
+.btn-indianred:hover {
+    background-color: brown;
+}
+
+.border-indianred {
+    border-color: indianred !important;
+}
+
+.btn-outline-indianred {
+    border-color: indianred;
+    color: indianred;
+}
+
+.btn-outline-indianred:hover {
+    background-color: indianred;
+    border-color: indianred;
+    color: black;
+}
+
+/*Lavender*/
+.text-lavender {
+    color: lavender;
+}
+
+.bg-lavender {
+    background-color: lavender;
+}
+
+.btn-lavender {
+    background-color: lavender;
+}
+
+.btn-lavender:hover {
+    background-color: lavenderblush;
+}
+
+.border-lavender {
+    border-color: lavender !important;
+}
+
+.btn-outline-lavender {
+    border-color: lavender;
+    color: lavender;
+}
+
+.btn-outline-lavender:hover {
+    background-color: lavender;
+    border-color: lavender;
+    color: black;
+}
+
+/*Olive*/
+.text-olive {
+    color: olive;
+}
+
+.bg-olive {
+    background-color: olive;
+}
+
+.btn-olive {
+    background-color: olive;
+}
+
+.btn-olive:hover {
+    background-color: olivedrab;
+}
+
+.border-olive {
+    border-color: olive !important;
+}
+
+.btn-outline-olive {
+    border-color: olive;
+    color: olive;
+}
+
+.btn-outline-olive:hover {
+    background-color: olive;
+    border-color: olive;
+    color: black;
+}
+
+/*Salmon*/
+.text-salmon {
+    color: salmon;
+}
+
+.bg-salmon {
+    background-color: salmon;
+}
+
+.btn-salmon {
+    background-color: salmon;
+}
+
+.btn-salmon:hover {
+    background-color: chocolate;
+}
+
+.border-salmon {
+    border-color: salmon !important;
+}
+
+.btn-outline-salmon {
+    border-color: salmon;
+    color: salmon;
+}
+
+.btn-outline-salmon:hover {
+    background-color: salmon;
+    border-color: salmon;
+    color: black;
+}
+
+/*Violet*/
+.text-violet {
+    color: violet;
+}
+
+.bg-violet {
+    background-color: violet;
+}
+
+.btn-violet {
+    background-color: violet;
+}
+
+.btn-violet:hover {
+    background-color: magenta;
+}
+
+.border-violet {
+    border-color: violet !important;
+}
+
+.btn-outline-violet {
+    border-color: violet;
+    color: violet;
+}
+
+.btn-outline-violet:hover {
+    background-color: violet;
+    border-color: violet;
+    color: black;
+}
