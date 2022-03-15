@@ -1,4 +1,4 @@
-# Bootstrap-Additional-Colours
+# Bootstrap Additional Colours
 <p>Additional colour classes for Bootstrap</p>
 <h2>Opening</h2>
 <p>Bootstrap contains eight 8 colours by default. These;</p>
