@@ -28,6 +28,7 @@ Bootstrap Additional Colours project solves this problem. You can use other colo
   <li>Deep sky blue</li>
   <li>Deep pink</li>
   <li>Fuchsia</li>
+  <li>WhatsApp green</li>
   <li>Light pink</li>
   <li>Light green</li>
   <li>Chocolate</li>
@@ -40,7 +41,7 @@ Bootstrap Additional Colours project solves this problem. You can use other colo
   <li>Salmon</li>
   <li>Violet</li>
 </ul>
-<img src="https://user-images.githubusercontent.com/37022881/158373072-6c63ee07-16c9-4923-a082-0145f3c93b46.jpg" />
+<img src="https://user-images.githubusercontent.com/37022881/158987026-5b617e35-e934-4807-bbab-bb5f5814237a.jpg" />
 <h2>Use</h2>
 <h3>Downloading and linking</h3>
 <p>Download the bootstrap-additional-colours.css file. Link your CSS file to your HTML file using the <link> tag inside the head of your HTML file. From now on, you can use colour classes effectively in your HTML file.</p>
@@ -56,6 +57,7 @@ Bootstrap Additional Colours project solves this problem. You can use other colo
   <li>text-deepskyblue</li>
   <li>text-deeppink</li>
   <li>text-fuchsia</li>
+  <li>text-whatsappgreen</li>
   <li>text-lightpink</li>
   <li>text-lightgreen</li>
   <li>text-choco</li>
@@ -79,6 +81,7 @@ Bootstrap Additional Colours project solves this problem. You can use other colo
   <li>bg-deepskyblue</li>
   <li>bg-deeppink</li>
   <li>bg-fuchsia</li>
+  <li>bg-whatsappgreen</li>
   <li>bg-lightpink</li>
   <li>bg-lightgreen</li>
   <li>bg-choco</li>
@@ -102,6 +105,7 @@ Bootstrap Additional Colours project solves this problem. You can use other colo
   <li>border-deepskyblue</li>
   <li>border-deeppink</li>
   <li>border-fuchsia</li>
+  <li>border-whatsappgreen</li>
   <li>border-lightpink</li>
   <li>border-light green</li>
   <li>border-choco</li>
@@ -126,6 +130,7 @@ Bootstrap Additional Colours project solves this problem. You can use other colo
   <li>btn-deepskyblue</li>
   <li>btn-deeppink</li>
   <li>btn-fuchsia</li>
+  <li>btn-whatsappgreen</li>
   <li>btn-lightpink</li>
   <li>btn-lightgreen</li>
   <li>btn-choco</li>
@@ -149,6 +154,7 @@ Bootstrap Additional Colours project solves this problem. You can use other colo
   <li>btn-outline-deepskyblue</li>
   <li>btn-outline-deeppink</li>
   <li>btn-outline-fuchsia</li>
+  <li>btn-outline-whatsappgreen</li>
   <li>btn-outline-lightpink</li>
   <li>btn-outline-lightgreen</li>
   <li>btn-outline-choco</li>
