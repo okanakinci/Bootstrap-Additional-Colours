@@ -308,6 +308,40 @@ This CSS file allows you to use other colours in a similar way to Bootstrap clas
     color: white;
 }
 
+/*WhatsApp green*/
+.text-whatsappgreen {
+    color: #52cd5e;
+}
+
+.bg-whatsappgreen {
+    background-color: #52cd5e;
+}
+
+.btn-whatsappgreen {
+    background-color: #52cd5e;
+    color: white;
+}
+
+.btn-whatsappgreen:hover {
+    background-color: darkseagreen;
+    color: white;
+}
+
+.border-whatsappgreen {
+    border-color: #52cd5e !important;
+}
+
+.btn-outline-whatsappgreen {
+    border-color: #52cd5e;
+    color: #52cd5e;
+}
+
+.btn-outline-whatsappgreen:hover {
+    background-color: #52cd5e;
+    border-color: #52cd5e;
+    color: white;
+}
+
 /*Light colours*/
 
 /*Light pink*/
