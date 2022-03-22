@@ -38,6 +38,7 @@ Bootstrap Additional Colours project solves this problem. You can use other colo
   <li>Violet</li>
   <li>Discord purple</li>
 </ul>
+<p><i>If you want to see the colours, check out the colours-test.html file.</i></p>
 <h2>Use</h2>
 <h3>Downloading and linking</h3>
 <p>Download the bootstrap-additional-colours.css file. Link your CSS file to your HTML file using the <link> tag inside the head of your HTML file. From now on, you can use colour classes effectively in your HTML file.</p>
