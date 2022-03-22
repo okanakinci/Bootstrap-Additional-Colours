@@ -12,7 +12,6 @@
   <li>Danger(red)</li>
   <li>Warning(Yellow)</li>
 </ul>
-<img src="https://user-images.githubusercontent.com/37022881/158368447-e6160237-1aa7-4b58-b4a7-b7f910d05be1.jpg" />
 <p>These colours are; It is used with classes written for text, buttons, backgrounds and borders. E.g; To make a text red, you add the text-danger class to it. Or to make a button blue, you add the btn-primary class to it. Or to make a box's background green, you add the bg-success class to it.
 But web developers need more colours than that in their work and they have to write CSS for it. This not only makes things longer but also makes using Bootstrap pointless.
 Bootstrap Additional Colours project solves this problem. You can use other colours in the same way as Bootstrap's 8 colours.</p>
@@ -39,7 +38,6 @@ Bootstrap Additional Colours project solves this problem. You can use other colo
   <li>Violet</li>
   <li>Discord purple</li>
 </ul>
-<img src="https://user-images.githubusercontent.com/37022881/158987026-5b617e35-e934-4807-bbab-bb5f5814237a.jpg" />
 <h2>Use</h2>
 <h3>Downloading and linking</h3>
 <p>Download the bootstrap-additional-colours.css file. Link your CSS file to your HTML file using the <link> tag inside the head of your HTML file. From now on, you can use colour classes effectively in your HTML file.</p>
