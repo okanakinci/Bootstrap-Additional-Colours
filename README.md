@@ -33,13 +33,11 @@ Bootstrap Additional Colours project solves this problem. You can use other colo
   <li>Light green</li>
   <li>Chocolate</li>
   <li>Cornflower blue</li>
-  <li>Cornsilk</li>
-  <li>Honeydew</li>
   <li>Indian red</li>
-  <li>Lavender</li>
   <li>Olive</li>
   <li>Salmon</li>
   <li>Violet</li>
+  <li>Discord purple</li>
 </ul>
 <img src="https://user-images.githubusercontent.com/37022881/158987026-5b617e35-e934-4807-bbab-bb5f5814237a.jpg" />
 <h2>Use</h2>
@@ -60,14 +58,13 @@ Bootstrap Additional Colours project solves this problem. You can use other colo
   <li>text-whatsappgreen</li>
   <li>text-lightpink</li>
   <li>text-lightgreen</li>
-  <li>text-choco</li>
+  <li>text-chocolate</li>
   <li>text-cornflowerblue</li>
-  <li>text-cornsilk</li>
-  <li>text-honeydew</li>
   <li>text-indianred</li>
-  <li>text-lavender</li>
   <li>text-olive</li>
   <li>text-salmon</li>
+  <li>text-violet</li>
+  <li>text-discordpurple</li>
 </ul>
 <h3>Backgrounds</h3>
 <p>You can add the following classes to boxes or other elements that can have backgrounds to give them the aforementioned colours.</p>
@@ -84,14 +81,13 @@ Bootstrap Additional Colours project solves this problem. You can use other colo
   <li>bg-whatsappgreen</li>
   <li>bg-lightpink</li>
   <li>bg-lightgreen</li>
-  <li>bg-choco</li>
+  <li>bg-chocolate</li>
   <li>bg-cornflowerblue</li>
-  <li>bg-cornsilk</li>
-  <li>bg-honeydew</li>
   <li>bg-indianred</li>
-  <li>bg-lavender</li>
   <li>bg-olive</li>
   <li>bg-salmon</li>
+  <li>bg-violet</li>
+  <li>bg-discordpurple</li>
 </ul>
 <h3>Borders</h3>
 <p>If you have given border lines to your HTML elements, you can change the colour of the borders using the following classes.</p>
@@ -108,14 +104,13 @@ Bootstrap Additional Colours project solves this problem. You can use other colo
   <li>border-whatsappgreen</li>
   <li>border-lightpink</li>
   <li>border-light green</li>
-  <li>border-choco</li>
+  <li>border-chocolate</li>
   <li>border-cornflowerblue</li>
-  <li>border-cornsilk</li>
-  <li>border-honeydew</li>
   <li>border-indianred</li>
-  <li>border-lavender</li>
   <li>border-olive</li>
   <li>border-salmon</li>
+  <li>border-violet</li>
+  <li>border-discordpurple</li>
 </ul>
 <p><b>Warning:</b> The <i>!important</i> property is used in the CSS scripting for border colors. Because Bootstrap was preventing any color other than its own 8 colors to be given to the borders. If you will be working on this CSS file, do not remove the <i>!important</i> properties.</p>
 <h3>Buttons</h3>
@@ -133,14 +128,13 @@ Bootstrap Additional Colours project solves this problem. You can use other colo
   <li>btn-whatsappgreen</li>
   <li>btn-lightpink</li>
   <li>btn-lightgreen</li>
-  <li>btn-choco</li>
+  <li>btn-chocolate</li>
   <li>btn-cornflowerblue</li>
-  <li>btn-cornsilk</li>
-  <li>btn-honeydew</li>
   <li>btn-indianred</li>
-  <li>btn-lavender</li>
   <li>btn-olive</li>
   <li>btn-salmon</li>
+  <li>btn-violet</li>
+  <li>btn-discordpurple</li>
 </ul>
 <h3>Outlined buttons</h3>
 <p>Bootstrap also supports outlined buttons. And we can also use our alternative colours on these buttons. You can make use of outlined button colours with the following classes.</p>
@@ -157,14 +151,13 @@ Bootstrap Additional Colours project solves this problem. You can use other colo
   <li>btn-outline-whatsappgreen</li>
   <li>btn-outline-lightpink</li>
   <li>btn-outline-lightgreen</li>
-  <li>btn-outline-choco</li>
+  <li>btn-outline-chocolate</li>
   <li>btn-outline-cornflowerblue</li>
-  <li>btn-outline-cornsilk</li>
-  <li>btn-outline-honeydew</li>
   <li>btn-outline-indianred</li>
-  <li>btn-outline-lavender</li>
   <li>btn-outline-olive</li>
   <li>btn-outline-salmon</li>
+  <li>btn-outline-violet</li>
+  <li>btn-outline-discordpurple</li>
 </ul>
 <h2>Feedback</h2>
 <p>Bootstrap Additional Colours project is a free project under the GNU license. You can freely use and fork.</p>
