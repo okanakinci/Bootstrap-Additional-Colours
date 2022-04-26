@@ -1,163 +1,307 @@
-# Bootstrap Additional Colours
-<p>Additional colour classes for Bootstrap</p>
-<h2>Opening</h2>
-<p>Bootstrap contains eight 8 colours by default. These;</p>
-<ul>
-  <li>Primary(blue)</li>
-  <li>Secondary(grey)</li>
-  <li>Dark(black)</li>
-  <li>Info(teal)</li>
-  <li>Light (very light grey)</li>
-  <li>Success(green)</li>
-  <li>Danger(red)</li>
-  <li>Warning(Yellow)</li>
-</ul>
-<p>These colours are; It is used with classes written for text, buttons, backgrounds and borders. E.g; To make a text red, you add the text-danger class to it. Or to make a button blue, you add the btn-primary class to it. Or to make a box's background green, you add the bg-success class to it.
-But web developers need more colours than that in their work and they have to write CSS for it. This not only makes things longer but also makes using Bootstrap pointless.
-Bootstrap Additional Colours project solves this problem. You can use other colours in the same way as Bootstrap's 8 colours.</p>
-<h2>My new colours</h2>
-<p>This project includes these colours:</p>
-<ul>
-  <li>Dark magenta</li>
-  <li>Indigo</li>
-  <li>Midnight blue</li>
-  <li>Dark orange</li>
-  <li>Brown</li>
-  <li>Dark green</li>
-  <li>Deep sky blue</li>
-  <li>Deep pink</li>
-  <li>Fuchsia</li>
-  <li>WhatsApp green</li>
-  <li>Light pink</li>
-  <li>Light green</li>
-  <li>Chocolate</li>
-  <li>Cornflower blue</li>
-  <li>Indian red</li>
-  <li>Olive</li>
-  <li>Salmon</li>
-  <li>Violet</li>
-  <li>Discord purple</li>
-</ul>
-<p><i>If you want to see the colours, check out the colours-test.html file.</i></p>
-<h2>Use</h2>
-<h3>Downloading and linking</h3>
-<p>Download the bootstrap-additional-colours.css file. Link your CSS file to your HTML file using the <link> tag inside the head of your HTML file. From now on, you can use colour classes effectively in your HTML file.</p>
-<h3>Fonts</h3>
-<p>You can add the above-mentioned colors to your text by adding the following classes to paragraphs, headings, and other text-containing elements.</p>
-<ul>
-  <li>text-darkmagenta</li>
-  <li>text-indigo</li>
-  <li>text-midnightblue</li>
-  <li>text-darkorange</li>
-  <li>text-brown</li>
-  <li>text-darkgreen</li>
-  <li>text-deepskyblue</li>
-  <li>text-deeppink</li>
-  <li>text-fuchsia</li>
-  <li>text-whatsappgreen</li>
-  <li>text-lightpink</li>
-  <li>text-lightgreen</li>
-  <li>text-chocolate</li>
-  <li>text-cornflowerblue</li>
-  <li>text-indianred</li>
-  <li>text-olive</li>
-  <li>text-salmon</li>
-  <li>text-violet</li>
-  <li>text-discordpurple</li>
-</ul>
-<h3>Backgrounds</h3>
-<p>You can add the following classes to boxes or other elements that can have backgrounds to give them the aforementioned colours.</p>
-<ul>
-  <li>bg-darkmagenta</li>
-  <li>bg-indigo</li>
-  <li>bg-midnightblue</li>
-  <li>bg-darkorange</li>
-  <li>bg-brown</li>
-  <li>bg-darkgreen</li>
-  <li>bg-deepskyblue</li>
-  <li>bg-deeppink</li>
-  <li>bg-fuchsia</li>
-  <li>bg-whatsappgreen</li>
-  <li>bg-lightpink</li>
-  <li>bg-lightgreen</li>
-  <li>bg-chocolate</li>
-  <li>bg-cornflowerblue</li>
-  <li>bg-indianred</li>
-  <li>bg-olive</li>
-  <li>bg-salmon</li>
-  <li>bg-violet</li>
-  <li>bg-discordpurple</li>
-</ul>
-<h3>Borders</h3>
-<p>If you have given border lines to your HTML elements, you can change the colour of the borders using the following classes.</p>
-<ul>
-  <li>border-darkmagenta</li>
-  <li>border-indigo</li>
-  <li>border-midnightblue</li>
-  <li>border-darkorange</li>
-  <li>border-brown</li>
-  <li>border-darkgreen</li>
-  <li>border-deepskyblue</li>
-  <li>border-deeppink</li>
-  <li>border-fuchsia</li>
-  <li>border-whatsappgreen</li>
-  <li>border-lightpink</li>
-  <li>border-light green</li>
-  <li>border-chocolate</li>
-  <li>border-cornflowerblue</li>
-  <li>border-indianred</li>
-  <li>border-olive</li>
-  <li>border-salmon</li>
-  <li>border-violet</li>
-  <li>border-discordpurple</li>
-</ul>
-<p><b>Warning:</b> The <i>!important</i> property is used in the CSS scripting for border colors. Because Bootstrap was preventing any color other than its own 8 colors to be given to the borders. If you will be working on this CSS file, do not remove the <i>!important</i> properties.</p>
-<h3>Buttons</h3>
-<p>You can also use the above-mentioned colours on your buttons with the classes below.</p>
-<ul>
-  <li>btn-darkmagenta</li>
-  <li>btn-indigo</li>
-  <li>btn-midnightblue</li>
-  <li>btn-darkorange</li>
-  <li>btn-brown</li>
-  <li>btn-darkgreen</li>
-  <li>btn-deepskyblue</li>
-  <li>btn-deeppink</li>
-  <li>btn-fuchsia</li>
-  <li>btn-whatsappgreen</li>
-  <li>btn-lightpink</li>
-  <li>btn-lightgreen</li>
-  <li>btn-chocolate</li>
-  <li>btn-cornflowerblue</li>
-  <li>btn-indianred</li>
-  <li>btn-olive</li>
-  <li>btn-salmon</li>
-  <li>btn-violet</li>
-  <li>btn-discordpurple</li>
-</ul>
-<h3>Outlined buttons</h3>
-<p>Bootstrap also supports outlined buttons. And we can also use our alternative colours on these buttons. You can make use of outlined button colours with the following classes.</p>
-<ul>
-  <li>btn-outline-darkmagenta</li>
-  <li>btn-outline-indigo</li>
-  <li>btn-outline-midnightblue</li>
-  <li>btn-outline-darkorange</li>
-  <li>btn-outline-brown</li>
-  <li>btn-outline-darkgreen</li>
-  <li>btn-outline-deepskyblue</li>
-  <li>btn-outline-deeppink</li>
-  <li>btn-outline-fuchsia</li>
-  <li>btn-outline-whatsappgreen</li>
-  <li>btn-outline-lightpink</li>
-  <li>btn-outline-lightgreen</li>
-  <li>btn-outline-chocolate</li>
-  <li>btn-outline-cornflowerblue</li>
-  <li>btn-outline-indianred</li>
-  <li>btn-outline-olive</li>
-  <li>btn-outline-salmon</li>
-  <li>btn-outline-violet</li>
-  <li>btn-outline-discordpurple</li>
-</ul>
-<h2>Feedback</h2>
-<p>Bootstrap Additional Colours project is a free project under the GNU license. You can freely use and fork.</p>
-<p>You can also report all your bug reports, suggestions and new colour requests.</p>
+<h1 class="c13" id="h.c6122xbga6z"><span class="c14">Bootstrap Additional Colours</span></h1>
+    <p class="c12"><span class="c1">Bootstrap Additional Colours were developed as a solution to Bootstrap&#39;s
+            scarcity of colour classes.</span></p>
+    <p class="c12"><span class="c1">Bootstrap has made it easy to use only nine colours, even though it basically has a
+            very large colour palette of CSS. These;</span></p>
+    <ol class="c7 lst-kix_f90hofh2ga2w-0 start" start="1">
+        <li class="c2 li-bullet-0"><span class="c1">Primary(blue)</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Secondary(gray)</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Warning(yellow)</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Danger(red)</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Dark(black)</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">White(white)</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Light(close to white)</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Info(teal blue)</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Success(green)</span></li>
+    </ol>
+    <p class="c12"><span class="c1">Bootstrap Additional Colours includes classes that make it easy to use colours other
+            than the ones above. The most current version of our project includes the following colours:</span></p>
+    <ol class="c7 lst-kix_71zr816psxoo-0 start" start="1">
+        <li class="c2 li-bullet-0"><span class="c1">Dark magenta</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Indigo</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Midnight blue</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Dark orange</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Brown</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Dark green</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Deep pink</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">WhatsApp green</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Chocolate</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Cornflower blue</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Indian red</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Olive</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Discord purple</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Fuchsia</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Steel blue</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Deep sky blue</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Light pink</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Light green</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Salmon</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Violet</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Lavender</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Honeydew</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Cornsilk</span></li>
+    </ol>
+    <img src="https://user-images.githubusercontent.com/37022881/165326524-bf96092f-20d9-4c9a-849d-5b2957803686.jpg" />
+    <p class="c12"><span class="c1">Colours can be used:</span></p>
+    <ul class="c7 lst-kix_xphcd5oi6b1w-0 start">
+        <li class="c2 li-bullet-0"><span class="c1">Text and titles</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Backgrounds</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Buttons</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Outlined buttons</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Hyperlinks</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Alerts</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Borders</span></li>
+    </ul>
+    <h2 class="c10" id="h.23dh5scvbi5w"><span class="c11">Usage</span></h2>
+    <h3 class="c9" id="h.gz6k1oe9gmbz"><span class="c6">CSS Link</span></h3>
+    <p class="c12"><span class="c1">After you download the bootstrap-additional-colours.css file on Github page, you
+            should link it to the HTML file you will use. There are two ways to do this:</span></p>
+    <ol class="c7 lst-kix_c6r64kk2esx1-0 start" start="1">
+        <li class="c2 li-bullet-0"><span class="c1">Introduce the downloaded CSS file using the &lt;link&gt; tag inside
+                the &lt;head&gt; section of your HTML file.</span></li>
+        <li class="c2 li-bullet-0"><span class="c1">Or copy the content of the CSS file, open a &lt;style&gt; tag inside
+                the &lt;head&gt; portion of the HTML file. Paste the copied content inside the &lt;style&gt; tag.</span>
+        </li>
+    </ol>
+    <p class="c12"><span class="c3 c15">Warning:</span><span class="c1">&nbsp;This CSS file is designed to work with
+            Bootstrap 5.1.3. It can cause problems in projects where Bootstrap is not used. If you haven&#39;t linked
+            Bootstrap to your HTML file, link it as well.</span></p>
+    <h3 class="c9" id="h.z64syhr4stv"><span class="c6">Text and headings</span></h3>
+    <p class="c8"><span class="c1">To use Bootstrap Additional Colours in text and headings, you can give these HTML
+            elements the following classes</span></p>
+    <ul class="c7 lst-kix_qjtgrn6th8a8-0 start">
+        <li class="c0 li-bullet-0"><span class="c3">Dark magenta:</span><span class="c1">&nbsp;text-darkmgt</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Indigo:</span><span class="c1">&nbsp;text-indigo</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Midnight blue:</span><span class="c1">&nbsp;text-midblue</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Dark orange:</span><span class="c1">&nbsp;text-dkorange</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Brown:</span><span class="c1">&nbsp;text-brown</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Dark green:</span><span class="c1">&nbsp;text-dgreen</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Deep pink:</span><span class="c1">&nbsp;text-dpink</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">WhatsApp green:</span><span class="c1">&nbsp;text-whatsgreen</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Chocolate:</span><span class="c1">&nbsp;text- choco</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Cornflower blue:</span><span class="c1">&nbsp;text-cornflower</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Indian red:</span><span class="c1">&nbsp;text-indian</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Olive:</span><span class="c1">&nbsp;text-olive</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Discord purple:</span><span class="c1">&nbsp;text-dispurple</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Fuchsia:</span><span class="c1">&nbsp;text-fuchsia</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Steel blue:</span><span class="c1">&nbsp;text-stellb</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Deep sky blue:</span><span class="c1">&nbsp;text-deepsky</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Light pink:</span><span class="c1">&nbsp;text-lpink</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Light green:</span><span class="c1">&nbsp;text-lgreen</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Salmon:</span><span class="c1">&nbsp;text-salmon</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Violet:</span><span class="c1">&nbsp;text-violet</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Lavender:</span><span class="c1">&nbsp;text-lavender</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Honeydew:</span><span class="c1">&nbsp;text-honeydew</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Cornsilk:</span><span class="c1">&nbsp;text-cornsilk</span></li>
+    </ul>
+    <h3 class="c5" id="h.ro1wstm7vy33"><span class="c6">Backgrounds</span></h3>
+    <p class="c8"><span class="c1">Use this to use Bootstrap Additional Colours as background color You can give HTML
+            elements the following classes:</span></p>
+    <ul class="c7 lst-kix_qjtgrn6th8a8-0">
+        <li class="c0 li-bullet-0"><span class="c3">Dark magenta:</span><span class="c1">&nbsp;bg-darkmgt</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Indigo:</span><span class="c1">&nbsp;bg-indigo</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Midnight blue:</span><span class="c1">&nbsp;bg-midblue</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Dark orange:</span><span class="c1">&nbsp;bg-dkorange</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Brown:</span><span class="c1">&nbsp;bg-brown</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Dark green:</span><span class="c1">&nbsp;bg-dgreen</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Deep pink:</span><span class="c1">&nbsp;bg-dpink</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">WhatsApp green :</span><span class="c1">&nbsp;bg-whatsgreen</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Chocolate:</span><span class="c1">&nbsp;bg-choco</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Cornflower blue:</span><span class="c1">&nbsp;bg-cornflower</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Indian red:</span><span class="c1">&nbsp;bg-indian</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Olive:</span><span class="c1">&nbsp;bg-olive</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Discord purple:</span><span class="c1">&nbsp;bg-dispurple</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Fuchsia:</span><span class="c1">&nbsp;bg-fuchsia</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Steel blue:</span><span class="c1">&nbsp;bg-stellb</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Deep sky blue:</span><span class="c1">&nbsp;bg-deepsky</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Light pink:</span><span class="c1">&nbsp;bg-lpink</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Light green:</span><span class="c1">&nbsp;bg-lgreen</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Salmon:</span><span class="c1">&nbsp;bg-salmon</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Violet:</span><span class="c1">&nbsp;bg-violet</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Lavender:</span><span class="c1">&nbsp;bg-lavender</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Honeydew:</span><span class="c1">&nbsp;bg-honeydew</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Cornsilk:</span><span class="c1">&nbsp;bg-cornsilk</span></li>
+    </ul>
+    <h3 class="c5" id="h.tzlslg7kw0ei"><span class="c6">Buttons</span></h3>
+    <p class="c8"><span class="c1">Click on these HTML elements to use Bootstrap Additional Colours as buttons You can
+            give the following classes. But you must also give the btn class.</span></p>
+    <ul class="c7 lst-kix_qjtgrn6th8a8-0">
+        <li class="c0 li-bullet-0"><span class="c3">Dark magenta:</span><span class="c1">&nbsp;btn-darkmgt</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Indigo:</span><span class="c1">&nbsp;btn-indigo</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Midnight blue:</span><span class="c1">&nbsp;btn-midblue</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Dark orange:</span><span class="c1">&nbsp;btn-dkorange</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Brown:</span><span class="c1">&nbsp;btn-brown</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Dark green:</span><span class="c1">&nbsp;btn-dgreen</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Deep pink:</span><span class="c1">&nbsp;btn-dpink</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">WhatsApp green:</span><span class="c1">&nbsp;btn-whatsgreen</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Chocolate:</span><span class="c1">&nbsp;btn-choco</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Cornflower blue:</span><span class="c1">&nbsp;btn-cornflower</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Indian red:</span><span class="c1">&nbsp;btn-indian</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Olive:</span><span class="c1">&nbsp;btn-olive</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Discord purple:</span><span class="c1">&nbsp;btn-dispurple</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Fuchsia:</span><span class="c1">&nbsp;btn-fuchsia</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Steel blue:</span><span class="c1">&nbsp;btn-stellb</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Deep sky blue:</span><span class="c1">&nbsp;btn-deepsky</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Light pink:</span><span class="c1">&nbsp;btn-lpink</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Light green:</span><span class="c1">&nbsp;btn-lgreen</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Salmon:</span><span class="c1">&nbsp;btn-salmon</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Violet:</span><span class="c1">&nbsp;btn-violet</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Lavender:</span><span class="c1">&nbsp;btn-lavender</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Honeydew:</span><span class="c1">&nbsp;btn-honeydew</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Cornsilk:</span><span class="c1">&nbsp;btn-cornsilk</span></li>
+    </ul>
+    <h3 class="c5" id="h.i5sjwdecxop"><span class="c6">Outlined buttons</span></h3>
+    <p class="c8"><span class="c1">Bootstrap Additional Colours You can give the following classes to these HTML
+            elements to use as outlined buttons. But you must also give the btn class.</span></p>
+    <ul class="c7 lst-kix_qjtgrn6th8a8-0">
+        <li class="c0 li-bullet-0"><span class="c3">Dark magenta:</span><span
+                class="c1">&nbsp;btn-outlined-darkmgt</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Indigo:</span><span class="c1">&nbsp;btn-outlined-indigo</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Midnight blue:</span><span
+                class="c1">&nbsp;btn-outlined-midblue</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Dark orange:</span><span
+                class="c1">&nbsp;btn-outlined-dkorange</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Brown:</span><span class="c1">&nbsp;btn-outlined-brown</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Dark green:</span><span class="c1">&nbsp;btn-outlined-dgreen</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Deep pink :</span><span class="c1">&nbsp;btn-outlined-dpink</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">WhatsApp green:</span><span
+                class="c1">&nbsp;btn-outlined-whatsgreen</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Chocolate:</span><span class="c1">&nbsp;btn-outlined-choco</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">blue:</span><span class="c1">&nbsp;btn-outlined-cornflower</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Indian red:</span><span class="c1">&nbsp;btn-outlined-indian</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Olive:</span><span class="c1">&nbsp;btn-outlined-olive</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Discord purple:</span><span
+                class="c1">&nbsp;btn-outlined-dispurple</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Fuchsia:</span><span class="c1">&nbsp;btn-outlined-fuchsia</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Steel blue:</span><span class="c1">&nbsp;btn-outlined-stellib</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Deep sky blue:</span><span
+                class="c1">&nbsp;btn-outlined-deepsky</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Light pink:</span><span class="c1">&nbsp;btn-outlined-lpink</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Light green:</span><span class="c1">&nbsp;btn-outlined-lgreen</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Salmon:</span><span class="c1">&nbsp;btn- outlined-salmon</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Violet:</span><span class="c1">&nbsp;btn-outlined-violet</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Lavender:</span><span class="c1">&nbsp;btn-outlined-lavender</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Honeydew:</span><span class="c1">&nbsp;btn-outlined-honeydew</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Cornsilk:</span><span class="c1">&nbsp;btn-outlined-cornsilk</span>
+        </li>
+    </ul>
+    <h3 class="c5" id="h.al03hz7gsqg"><span class="c6">Links</span></h3>
+    <p class="c8"><span class="c1">Bootstrap Additional Colours in links, add the following HTML elements to these HTML
+            elements. You can give these classes:</span></p>
+    <ul class="c7 lst-kix_qjtgrn6th8a8-0">
+        <li class="c0 li-bullet-0"><span class="c3">Dark magenta:</span><span class="c1">&nbsp;link-darkmgt</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Indigo:</span><span class="c1">&nbsp;link- indigo</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Midnight blue:</span><span class="c1">&nbsp;link-midblue</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Dark orange:</span><span class="c1">&nbsp;link-dkorange</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Brown:</span><span class="c1">&nbsp;link-brown</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Dark green:</span><span class="c1">&nbsp;link-dgreen</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Deep pink:</span><span class="c1">&nbsp;link-dpink</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">WhatsApp green:</span><span class="c1">&nbsp;link-whatsgreen</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Chocolate:</span><span class="c1">&nbsp;link-choco</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Cornflower blue:</span><span class="c1">&nbsp;link-cornflower</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Indian red:</span><span class="c1">&nbsp;link-indian</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Olive:</span><span class="c1">&nbsp;link-olive</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Discord purple:</span><span class="c1">&nbsp;link-dispurple</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Fuchsia:</span><span class="c1">&nbsp;link-fuchsia</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Steel blue:</span><span class="c1">&nbsp;link-stellb</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Deep sky blue:</span><span class="c1">&nbsp;link-deepsky</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Light pink:</span><span class="c1">&nbsp;link-lpink</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Light green:</span><span class="c1">&nbsp;link-lgreen</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Salmon :</span><span class="c1">&nbsp;link-salmon</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Violet:</span><span class="c1">&nbsp;link-violet</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Lavender:</span><span class="c1">&nbsp;link-lavender</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Honeydew:</span><span class="c1">&nbsp;link-honeydew</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Cornsilk:</span><span class="c1">&nbsp;link-cornsilk</span></li>
+    </ul>
+    <h3 class="c5" id="h.hoeqb470qz1p"><span class="c6">Alerts</span></h3>
+    <p class="c8"><span class="c1">To use Bootstrap Additional Colours in alarms, you can give these HTML elements the
+            following classes:</span></p>
+    <ul class="c7 lst-kix_qjtgrn6th8a8-0">
+        <li class="c0 li-bullet-0"><span class="c3">Dark magenta:</span><span class="c1">&nbsp;alert -darkmgt</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Indigo:</span><span class="c1">&nbsp;alert-indigo</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Midnight blue:</span><span class="c1">&nbsp;alert-midblue</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Dark orange:</span><span class="c1">&nbsp;alert-dkorange</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Brown:</span><span class="c1">&nbsp;alert-brown</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Dark green:</span><span class="c1">&nbsp;alert-dgreen</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Deep pink:</span><span class="c1">&nbsp;alert-dpink</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">WhatsApp green:</span><span class="c1">&nbsp;alert-whatsgreen</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Chocolate:</span><span class="c1">&nbsp;alert-choco</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Cornflower blue:</span><span
+                class="c1">&nbsp;alert-cornflower</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Indian red:</span><span class="c1">&nbsp;alert-indian</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Olive:</span><span class="c1">&nbsp;alert-olive</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Discord purple:</span><span class="c1">&nbsp;alert-dispurple</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Fuchsia:</span><span class="c1">&nbsp;alert-fuchsia</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Steel blue:</span><span class="c1">&nbsp;alert-stellb</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Deep sky blue:</span><span class="c1">&nbsp;alert-deepsky</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Light pink:</span><span class="c1">&nbsp;alert-lpink</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Light green:</span><span class="c1">&nbsp;alert-lgreen</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Salmon:</span><span class="c1">&nbsp;alert-salmon</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Violet:</span><span class="c1">&nbsp;alert-violet</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Lavender:</span><span class="c1">&nbsp;alert-lavender</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Honeydew:</span><span class="c1">&nbsp;alert-honeydew</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Cornsilk:</span><span class="c1">&nbsp;alert-cornsilk</span></li>
+    </ul>
+    <h3 class="c5" id="h.7qq9bi3ihzfe"><span class="c6">Borders</span></h3>
+    <p class="c8"><span class="c1">To use Bootstrap Additional Colours in borders, you can give these HTML elements the
+            following classes. You also need to use the border class.</span></p>
+    <ul class="c7 lst-kix_qjtgrn6th8a8-0">
+        <li class="c0 li-bullet-0"><span class="c3">Dark magenta:</span><span class="c1">&nbsp;border-darkmgt</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Indigo:</span><span class="c1">&nbsp;border-indigo</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Midnight blue:</span><span class="c1">&nbsp;border-midblue</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Dark orange:</span><span class="c1">&nbsp;border-dkorange</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Brown:</span><span class="c1">&nbsp;border-brown</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Dark green:</span><span class="c1">&nbsp;border-dgreen</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Deep pink:</span><span class="c1">&nbsp;border-dpink</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">WhatsApp green:</span><span
+                class="c1">&nbsp;border-whatsgreen</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Chocolate:</span><span class="c1">&nbsp;border-choco</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">blue:</span><span class="c1">&nbsp;border-cornflower</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Indian red:</span><span class="c1">&nbsp;border-indian</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Olive:</span><span class="c1">&nbsp;border-olive</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Discord purple:</span><span class="c1">&nbsp;border-dispurple</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Fuchsia:</span><span class="c1">&nbsp;border-fuchsia</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Steel blue:</span><span class="c1">&nbsp;border-stellb</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Deep sky blue:</span><span class="c1">&nbsp;border-deepsky</span>
+        </li>
+        <li class="c0 li-bullet-0"><span class="c3">Light pink:</span><span class="c1">&nbsp;border-lpink</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Light green:</span><span class="c1">&nbsp;border-lgreen</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Salmon:</span><span class="c1">&nbsp;border-salmon</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Violet:</span><span class="c1">&nbsp;border-violet</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Lavender:</span><span class="c1">&nbsp;border-lavender</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Honeydew:</span><span class="c1">&nbsp;border-honeydew</span></li>
+        <li class="c0 li-bullet-0"><span class="c3">Corn silk:</span><span>&nbsp;border-cornsilk</span></li>
+    </ul>
