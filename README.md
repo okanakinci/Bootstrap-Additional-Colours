@@ -37,11 +37,8 @@
         <li class="c2 li-bullet-0"><span class="c1">Light green</span></li>
         <li class="c2 li-bullet-0"><span class="c1">Salmon</span></li>
         <li class="c2 li-bullet-0"><span class="c1">Violet</span></li>
-        <li class="c2 li-bullet-0"><span class="c1">Lavender</span></li>
-        <li class="c2 li-bullet-0"><span class="c1">Honeydew</span></li>
-        <li class="c2 li-bullet-0"><span class="c1">Cornsilk</span></li>
     </ol>
-    <img src="https://user-images.githubusercontent.com/37022881/165326524-bf96092f-20d9-4c9a-849d-5b2957803686.jpg" />
+    <img src="https://user-images.githubusercontent.com/37022881/167830281-e2bfa2e8-7f48-4846-8633-fb7999ce54c3.jpg" />
     <p class="c12"><span class="c1">Colours can be used:</span></p>
     <ul class="c7 lst-kix_xphcd5oi6b1w-0 start">
         <li class="c2 li-bullet-0"><span class="c1">Text and titles</span></li>
@@ -93,9 +90,6 @@
         <li class="c0 li-bullet-0"><span class="c3">Light green:</span><span class="c1">&nbsp;text-lgreen</span></li>
         <li class="c0 li-bullet-0"><span class="c3">Salmon:</span><span class="c1">&nbsp;text-salmon</span></li>
         <li class="c0 li-bullet-0"><span class="c3">Violet:</span><span class="c1">&nbsp;text-violet</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Lavender:</span><span class="c1">&nbsp;text-lavender</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Honeydew:</span><span class="c1">&nbsp;text-honeydew</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Cornsilk:</span><span class="c1">&nbsp;text-cornsilk</span></li>
     </ul>
     <h3 class="c5" id="h.ro1wstm7vy33"><span class="c6">Backgrounds</span></h3>
     <p class="c8"><span class="c1">Use this to use Bootstrap Additional Colours as background color You can give HTML
@@ -124,9 +118,6 @@
         <li class="c0 li-bullet-0"><span class="c3">Light green:</span><span class="c1">&nbsp;bg-lgreen</span></li>
         <li class="c0 li-bullet-0"><span class="c3">Salmon:</span><span class="c1">&nbsp;bg-salmon</span></li>
         <li class="c0 li-bullet-0"><span class="c3">Violet:</span><span class="c1">&nbsp;bg-violet</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Lavender:</span><span class="c1">&nbsp;bg-lavender</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Honeydew:</span><span class="c1">&nbsp;bg-honeydew</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Cornsilk:</span><span class="c1">&nbsp;bg-cornsilk</span></li>
     </ul>
     <h3 class="c5" id="h.tzlslg7kw0ei"><span class="c6">Buttons</span></h3>
     <p class="c8"><span class="c1">Click on these HTML elements to use Bootstrap Additional Colours as buttons You can
@@ -155,9 +146,6 @@
         <li class="c0 li-bullet-0"><span class="c3">Light green:</span><span class="c1">&nbsp;btn-lgreen</span></li>
         <li class="c0 li-bullet-0"><span class="c3">Salmon:</span><span class="c1">&nbsp;btn-salmon</span></li>
         <li class="c0 li-bullet-0"><span class="c3">Violet:</span><span class="c1">&nbsp;btn-violet</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Lavender:</span><span class="c1">&nbsp;btn-lavender</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Honeydew:</span><span class="c1">&nbsp;btn-honeydew</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Cornsilk:</span><span class="c1">&nbsp;btn-cornsilk</span></li>
     </ul>
     <h3 class="c5" id="h.i5sjwdecxop"><span class="c6">Outlined buttons</span></h3>
     <p class="c8"><span class="c1">Bootstrap Additional Colours You can give the following classes to these HTML
@@ -199,11 +187,6 @@
         <li class="c0 li-bullet-0"><span class="c3">Salmon:</span><span class="c1">&nbsp;btn- outlined-salmon</span>
         </li>
         <li class="c0 li-bullet-0"><span class="c3">Violet:</span><span class="c1">&nbsp;btn-outlined-violet</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Lavender:</span><span class="c1">&nbsp;btn-outlined-lavender</span>
-        </li>
-        <li class="c0 li-bullet-0"><span class="c3">Honeydew:</span><span class="c1">&nbsp;btn-outlined-honeydew</span>
-        </li>
-        <li class="c0 li-bullet-0"><span class="c3">Cornsilk:</span><span class="c1">&nbsp;btn-outlined-cornsilk</span>
         </li>
     </ul>
     <h3 class="c5" id="h.al03hz7gsqg"><span class="c6">Links</span></h3>
@@ -233,9 +216,6 @@
         <li class="c0 li-bullet-0"><span class="c3">Light green:</span><span class="c1">&nbsp;link-lgreen</span></li>
         <li class="c0 li-bullet-0"><span class="c3">Salmon :</span><span class="c1">&nbsp;link-salmon</span></li>
         <li class="c0 li-bullet-0"><span class="c3">Violet:</span><span class="c1">&nbsp;link-violet</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Lavender:</span><span class="c1">&nbsp;link-lavender</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Honeydew:</span><span class="c1">&nbsp;link-honeydew</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Cornsilk:</span><span class="c1">&nbsp;link-cornsilk</span></li>
     </ul>
     <h3 class="c5" id="h.hoeqb470qz1p"><span class="c6">Alerts</span></h3>
     <p class="c8"><span class="c1">To use Bootstrap Additional Colours in alarms, you can give these HTML elements the
@@ -267,9 +247,6 @@
         <li class="c0 li-bullet-0"><span class="c3">Light green:</span><span class="c1">&nbsp;alert-lgreen</span></li>
         <li class="c0 li-bullet-0"><span class="c3">Salmon:</span><span class="c1">&nbsp;alert-salmon</span></li>
         <li class="c0 li-bullet-0"><span class="c3">Violet:</span><span class="c1">&nbsp;alert-violet</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Lavender:</span><span class="c1">&nbsp;alert-lavender</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Honeydew:</span><span class="c1">&nbsp;alert-honeydew</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Cornsilk:</span><span class="c1">&nbsp;alert-cornsilk</span></li>
     </ul>
     <h3 class="c5" id="h.7qq9bi3ihzfe"><span class="c6">Borders</span></h3>
     <p class="c8"><span class="c1">To use Bootstrap Additional Colours in borders, you can give these HTML elements the
@@ -301,7 +278,4 @@
         <li class="c0 li-bullet-0"><span class="c3">Light green:</span><span class="c1">&nbsp;border-lgreen</span></li>
         <li class="c0 li-bullet-0"><span class="c3">Salmon:</span><span class="c1">&nbsp;border-salmon</span></li>
         <li class="c0 li-bullet-0"><span class="c3">Violet:</span><span class="c1">&nbsp;border-violet</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Lavender:</span><span class="c1">&nbsp;border-lavender</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Honeydew:</span><span class="c1">&nbsp;border-honeydew</span></li>
-        <li class="c0 li-bullet-0"><span class="c3">Corn silk:</span><span>&nbsp;border-cornsilk</span></li>
     </ul>
